@@ -793,13 +793,13 @@ h4 {
     font-size: 18px;
     padding: 18px;
     border-radius: 200px;
-    background: black;
+    background: #F3976C!important;
     margin: 20px !important;
     font-weight: 700;
 }
 
 .bold-link:hover {
-    background: white !important;
+    background: #ffccb4!important;
     color: black !important;
     transition: 0.3s;
 }
@@ -828,12 +828,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #F3976C!important;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: white!important;
+    background: #ffccb4!important;
     color: black!important;
 }
 
@@ -842,7 +842,7 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: black!important;
 }
 
 .ltc-atomic-tangerine {
